@@ -80,6 +80,12 @@
 				</MakeCommands>
 			</Target>
 		</Build>
+		<Unit filename="/cygdrive/c/Users/ericd/CLionProjects/Lab2/create.cpp">
+			<Option target="Lab2"/>
+		</Unit>
+		<Unit filename="/cygdrive/c/Users/ericd/CLionProjects/Lab2/create.hpp">
+			<Option target="Lab2"/>
+		</Unit>
 		<Unit filename="/cygdrive/c/Users/ericd/CLionProjects/Lab2/main.cpp">
 			<Option target="Lab2"/>
 		</Unit>
