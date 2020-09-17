@@ -6,6 +6,7 @@ set(CMAKE_DEPENDS_LANGUAGES
 set(CMAKE_DEPENDS_CHECK_CXX
   "/cygdrive/c/Users/ericd/CLionProjects/Lab2/create.cpp" "/cygdrive/c/Users/ericd/CLionProjects/Lab2/cmake-build-debug/CMakeFiles/Lab2.dir/create.cpp.o"
   "/cygdrive/c/Users/ericd/CLionProjects/Lab2/main.cpp" "/cygdrive/c/Users/ericd/CLionProjects/Lab2/cmake-build-debug/CMakeFiles/Lab2.dir/main.cpp.o"
+  "/cygdrive/c/Users/ericd/CLionProjects/Lab2/read.cpp" "/cygdrive/c/Users/ericd/CLionProjects/Lab2/cmake-build-debug/CMakeFiles/Lab2.dir/read.cpp.o"
   )
 set(CMAKE_CXX_COMPILER_ID "GNU")
 

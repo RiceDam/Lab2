@@ -6,4 +6,8 @@ CMakeFiles/Lab2.dir/create.cpp.o: ../create.hpp
 
 CMakeFiles/Lab2.dir/main.cpp.o: ../create.hpp
 CMakeFiles/Lab2.dir/main.cpp.o: ../main.cpp
+CMakeFiles/Lab2.dir/main.cpp.o: ../read.hpp
+
+CMakeFiles/Lab2.dir/read.cpp.o: ../read.cpp
+CMakeFiles/Lab2.dir/read.cpp.o: ../read.hpp
 
